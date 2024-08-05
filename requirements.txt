@@ -1,0 +1,12 @@
+torch
+torchaudio
+torchvision
+datasets
+huggingface-hub
+git+https://github.com/huggingface/transformers
+sentencepiece
+beautifulsoup4
+requests
+python-dotenv
+loguru
+uvicorn
